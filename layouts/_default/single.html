@@ -1,0 +1,76 @@
+{{ define "main" }}
+<article class="post">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ "/" | absURL }}">Home</a> /
+    <a href="{{ printf "/%s/" .Section | absURL }}">{{ index site.Params.sections .Section | default .Section }}</a> /
+    <span>{{ .Title }}</span>
+  </nav>
+
+  <span class="chip">{{ index site.Params.sections .Section | default .Section }}</span>
+  <h1 class="post-title">{{ .Title }}</h1>
+  <p class="byline">By <a href="{{ "about/" | absURL }}">Editorial Desk</a>
+    &middot; <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    &middot; {{ .ReadingTime }} min read</p>
+
+  {{ with .Params.featured_image }}
+  <figure class="featured">
+    <img src="{{ . | absURL }}" alt="{{ $.Params.featured_image_alt | default $.Title }}" width="1200" height="675">
+  </figure>
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.faq }}
+  <section class="faq">
+    <h2>Frequently Asked Questions</h2>
+    {{ range . }}
+    <details>
+      <summary>{{ .q }}</summary>
+      <p>{{ .a }}</p>
+    </details>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <div class="share">
+    <span>Share this:</span>
+    <a href="https://wa.me/?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" target="_blank" rel="noopener">WhatsApp</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&amp;url={{ .Permalink | urlquery }}" target="_blank" rel="noopener">X</a>
+    <a href="https://t.me/share/url?url={{ .Permalink | urlquery }}&amp;text={{ .Title | urlquery }}" target="_blank" rel="noopener">Telegram</a>
+  </div>
+
+  <div class="author-box">
+    <p class="author-name">Editorial Desk</p>
+    <p>The Jaipuria College editorial desk covers college admissions, exam results and scholarships across India. <a href="{{ "about/" | absURL }}">More about us</a>.</p>
+  </div>
+
+  {{ $related := where (where .Site.RegularPages "Section" .Section) "Permalink" "ne" .Permalink }}
+  {{ with first 3 $related.ByDate.Reverse }}
+  <section class="also-read">
+    <h2>Also read</h2>
+    <div class="cards">
+      {{ range . }}
+      {{ $r := . }}
+      <article class="card">
+        <a href="{{ $r.Permalink }}">
+          {{ with $r.Params.featured_image }}
+          <img src="{{ . | absURL }}" alt="{{ $r.Params.featured_image_alt | default $r.Title }}" width="1200" height="675" loading="lazy">
+          {{ end }}
+          <h3>{{ $r.Title }}</h3>
+        </a>
+        <time datetime="{{ $r.Date.Format "2006-01-02" }}">{{ $r.Date.Format "January 2, 2006" }}</time>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <nav class="prevnext">
+    {{ with .PrevInSection }}<a class="prev" href="{{ .Permalink }}">&larr; {{ .Title }}</a>{{ end }}
+    {{ with .NextInSection }}<a class="next" href="{{ .Permalink }}">{{ .Title }} &rarr;</a>{{ end }}
+  </nav>
+</article>
+{{ end }}
