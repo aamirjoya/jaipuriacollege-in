@@ -54,7 +54,7 @@ The result is based entirely on the final answer key. NTA has stated clearly tha
 
 An important point to understand: NTA's role is limited to registration, conduct of the test, hosting answer keys, finalising them, preparing and declaring results, and hosting the scorecard. Preparing merit lists and running counselling is the job of the participating universities and institutions.
 
-After the results, each university releases its own admission timetable, cutoffs and counselling procedures. Students must apply separately to the universities of their choice and follow their counselling schedules. A good CUET score does not automatically convert into a seat; it has to be backed by a timely application to the university.
+After the results, each university releases its own admission timetable, cutoffs and counselling procedures. Students must apply separately to the universities of their choice and follow their counselling schedules. Keep your paperwork ready with our [college admission documents checklist](/admissions/college-admission-documents-checklist-india/) — most universities ask for the same set of documents at counselling. A good CUET score does not automatically convert into a seat; it has to be backed by a timely application to the university.
 
 ## Who is eligible
 
@@ -62,10 +62,10 @@ As per the official notification, candidates who have passed Class 12 (10+2) or 
 
 ## Where to check official updates
 
-The single most important habit for CUET aspirants is to rely on the official source. All notifications, the information brochure, syllabus, answer keys and the scorecard link are published on the official portal at cuet.nta.nic.in. News reports and coaching portals are useful for alerts, but the portal is the only place where official notices appear.
+The single most important habit for CUET aspirants is to rely on the official source. All notifications, the information brochure, syllabus, answer keys and the scorecard link are published on the <a href="https://cuet.nta.nic.in" target="_blank" rel="noopener">official CUET portal</a>. News reports and coaching portals are useful for alerts, but the portal is the only place where official notices appear.
 
 Students preparing for the next cycle should watch the same portal for the new notification, which NTA typically releases a few months before registration opens.
 
 ## What this means for students
 
-CUET UG 2026 is a done deal, and its confirmed details give future aspirants a realistic picture: a CBT exam in May, registration in January, up to five subjects from 37, NCERT-level questions in 13 languages, and a scorecard that feeds into university-wise counselling. The safest way to stay updated is the official NTA portal, and the smartest move after the result is to track each target university's admission schedule without delay.
+CUET UG 2026 is a done deal, and its confirmed details give future aspirants a realistic picture: a CBT exam in May, registration in January, up to five subjects from 37, NCERT-level questions in 13 languages, and a scorecard that feeds into university-wise counselling. The safest way to stay updated is the official NTA portal, and the smartest move after the result is to track each target university's admission schedule without delay. Follow our [admissions section](/admissions/) for every major counselling update.
