@@ -14,7 +14,7 @@
 
   {{ with .Params.featured_image }}
   <figure class="featured">
-    <img src="{{ . | absURL }}" alt="{{ $.Params.featured_image_alt | default $.Title }}" width="1200" height="675">
+    <img src="{{ . | absURL }}" alt="{{ $.Params.featured_image_alt | default $.Title }}" width="1200" height="675" decoding="async">
   </figure>
   {{ end }}
 
@@ -57,7 +57,7 @@
       <article class="card">
         <a href="{{ $r.Permalink }}">
           {{ with $r.Params.featured_image }}
-          <img src="{{ . | absURL }}" alt="{{ $r.Params.featured_image_alt | default $r.Title }}" width="1200" height="675" loading="lazy">
+          <img src="{{ . | absURL }}" alt="{{ $r.Params.featured_image_alt | default $r.Title }}" width="1200" height="675" loading="lazy" decoding="async">
           {{ end }}
           <h3>{{ $r.Title }}</h3>
         </a>
