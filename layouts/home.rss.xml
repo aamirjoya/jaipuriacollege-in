@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Jaipuria College - College Admissions, Exam Results &amp; Scholarships</title>
+  <link>{{ "/" | absURL }}</link>
+  <description>{{ site.Params.description }}</description>
+  <language>en</language>
+  <atom:link href="{{ "index.xml" | absURL }}" rel="self" type="application/rss+xml"/>
+  {{ $arts := where .Site.RegularPages.ByDate.Reverse "Section" "in" (slice "admissions" "results" "scholarships" "education-news") }}
+  {{ range first 20 $arts }}
+  <item>
+    <title>{{ .Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <guid>{{ .Permalink }}</guid>
+    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+    <description><![CDATA[{{ .Description | default .Summary }}]]></description>
+    {{ with .Params.featured_image }}
+    {{ $key := strings.TrimPrefix "/" . }}
+    <enclosure url="{{ . | absURL }}" type="image/webp"{{ with index site.Data.imagemeta $key }} length="{{ . }}"{{ end }}/>
+    {{ end }}
+  </item>
+  {{ end }}
+</channel>
+</rss>
