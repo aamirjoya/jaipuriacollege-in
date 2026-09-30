@@ -16,9 +16,9 @@ faq:
     a: "Incomplete or mismatched documents, a bank account that is not Aadhaar-linked, and family income above the scheme's limit are the most common reasons."
 ---
 
-A college degree is expensive, but the government runs several scholarship schemes that can take a large part of the cost off your shoulders. Many students miss out simply because they never heard of the right scheme or missed the application window.
+A college degree is expensive, but the government runs several scholarship schemes that can take a large part of the cost off your shoulders. Many students miss out simply because they never heard of the right scheme or missed the application window. Bookmark our [scholarships section](/scholarships/) for deadline alerts through the year.
 
-Every scheme below is real and currently active, and applications for most central schemes go through the National Scholarship Portal (NSP) at scholarships.gov.in. Eligibility rules and deadlines change every year, so always read the current guidelines on the NSP before you apply.
+Every scheme below is real and currently active, and applications for most central schemes go through the <a href="https://scholarships.gov.in" target="_blank" rel="noopener">National Scholarship Portal (NSP)</a>. Eligibility rules and deadlines change every year, so always read the current guidelines on the NSP before you apply.
 
 ## PM-USP Central Sector Scheme for College and University Students
 
@@ -62,4 +62,4 @@ Start with a one-time registration on the National Scholarship Portal. You will 
 
 Apply before the deadline and track your application status on the portal. After you apply, your college verifies the application, and then the state nodal officer does a second check. If something is flagged as defective, you get a correction window, so respond quickly instead of waiting for the next year.
 
-It is also worth checking your own state government's scholarship portal. States run their own schemes for college students, especially post-matric scholarships and merit awards, which sometimes have higher income limits or cover courses the central schemes do not. Your college's scholarship cell is usually the best place to learn which state schemes are open right now.
+It is also worth checking your own state government's scholarship portal. States run their own schemes for college students, especially post-matric scholarships and merit awards, which sometimes have higher income limits or cover courses the central schemes do not. Your college's scholarship cell is usually the best place to learn which state schemes are open right now. And do not ignore private schemes — the [LIC Golden Jubilee Scholarship 2026](/scholarships/lic-golden-jubilee-scholarship-2026/) offered up to Rs 50,000 a year to first-year students.
