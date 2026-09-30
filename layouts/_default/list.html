@@ -7,7 +7,7 @@
     {{ $p := . }}
     <article class="list-item">
       {{ with $p.Params.featured_image }}
-      <a class="list-thumb" href="{{ $p.Permalink }}"><img src="{{ . | absURL }}" alt="{{ $p.Params.featured_image_alt | default $p.Title }}" width="1200" height="675" loading="lazy"></a>
+      <a class="list-thumb" href="{{ $p.Permalink }}"><img src="{{ . | absURL }}" alt="{{ $p.Params.featured_image_alt | default $p.Title }}" width="1200" height="675" loading="lazy" decoding="async"></a>
       {{ end }}
       <div>
         <h2><a href="{{ $p.Permalink }}">{{ $p.Title }}</a></h2>
