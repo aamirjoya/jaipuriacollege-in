@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $latest := first 1 .Site.RegularPages.ByDate.Reverse }}
+{{ with index $latest 0 }}
+{{ $hero := . }}
+<section class="hero">
+  <a class="hero-card" href="{{ $hero.Permalink }}">
+    {{ with $hero.Params.featured_image }}
+    <img src="{{ . | absURL }}" alt="{{ $hero.Params.featured_image_alt | default $hero.Title }}" width="1200" height="675" loading="eager" fetchpriority="high">
+    {{ end }}
+    <div class="hero-body">
+      <span class="chip">{{ index site.Params.sections $hero.Section | default $hero.Section }}</span>
+      <h1>{{ $hero.Title }}</h1>
+      <p>{{ $hero.Description | default $hero.Summary }}</p>
+      <time datetime="{{ $hero.Date.Format "2006-01-02" }}">{{ $hero.Date.Format "January 2, 2006" }}</time>
+    </div>
+  </a>
+</section>
+{{ end }}
+
+{{ $rest := after 1 .Site.RegularPages.ByDate.Reverse }}
+{{ with $rest }}
+<section class="latest">
+  <h2 class="section-title">Latest Updates</h2>
+  <ul class="latest-list">
+    {{ range first 5 $rest }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+
+{{ range $sec, $label := site.Params.sections }}
+{{ $pages := where site.RegularPages.ByDate.Reverse "Section" $sec }}
+{{ with first 4 $pages }}
+<section class="cat-section">
+  <div class="cat-head">
+    <h2 class="section-title">{{ $label }}</h2>
+    <a class="view-all" href="{{ printf "/%s/" $sec | absURL }}">View all</a>
+  </div>
+  <div class="cards">
+    {{ range . }}
+    {{ $c := . }}
+    <article class="card">
+      <a href="{{ $c.Permalink }}">
+        {{ with $c.Params.featured_image }}
+        <img src="{{ . | absURL }}" alt="{{ $c.Params.featured_image_alt | default $c.Title }}" width="1200" height="675" loading="lazy">
+        {{ end }}
+        <h3>{{ $c.Title }}</h3>
+      </a>
+      <time datetime="{{ $c.Date.Format "2006-01-02" }}">{{ $c.Date.Format "January 2, 2006" }}</time>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
