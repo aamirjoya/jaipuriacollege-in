@@ -1,15 +1,48 @@
-<header class="site-header">
-  <div class="wrap header-inner">
-    <a class="brand" href="{{ "/" | absURL }}">
-      <span class="brand-name">Jaipuria College</span>
-      <span class="brand-tag">{{ site.Params.tagline }}</span>
-    </a>
-    <nav class="main-nav" aria-label="Main navigation">
-      <a href="{{ "/" | absURL }}">Home</a>
-      <a href="{{ "admissions/" | absURL }}">Admissions</a>
-      <a href="{{ "results/" | absURL }}">Results</a>
-      <a href="{{ "scholarships/" | absURL }}">Scholarships</a>
-      <a href="{{ "education-news/" | absURL }}">Education News</a>
+<div class="topbar">
+  <div class="wrap topbar-inner">
+    <span class="topbar-note">Independent Education News Portal</span>
+    <nav class="topbar-links" aria-label="Utility">
+      <a href="{{ "about/" | absURL }}">About</a>
+      <a href="{{ "contact/" | absURL }}">Contact</a>
+      <a href="{{ "privacy/" | absURL }}">Privacy</a>
     </nav>
   </div>
-</header>
+</div>
+
+{{ $notices := first 4 .Site.RegularPages.ByDate.Reverse }}
+{{ with $notices }}
+<div class="ticker" aria-label="Latest announcements">
+  <span class="ticker-label">Announcements</span>
+  <div class="ticker-view">
+    <div class="ticker-track">
+      {{ range . }}<a href="{{ .Permalink }}">{{ .Title }}</a><span class="ticker-dot" aria-hidden="true">&#9679;</span>{{ end }}
+      {{ range . }}<span aria-hidden="true"><a href="{{ .Permalink }}" tabindex="-1">{{ .Title }}</a><span class="ticker-dot">&#9679;</span></span>{{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<div class="masthead">
+  <div class="wrap masthead-inner">
+    <a class="brand" href="{{ "/" | absURL }}" aria-label="Jaipuria College - home">
+      <img class="crest" src="{{ "images/logo.png" | absURL }}" width="72" height="72" alt="Jaipuria College crest" fetchpriority="high">
+      <span class="brand-text">
+        <span class="brand-name">Jaipuria College</span>
+        <span class="brand-tag">{{ site.Params.tagline }}</span>
+        <span class="brand-sub">Independent education news portal for Indian students</span>
+      </span>
+    </a>
+  </div>
+</div>
+
+<nav class="mainnav" aria-label="Main navigation">
+  <div class="wrap mainnav-inner">
+    <a href="{{ "/" | absURL }}">Home</a>
+    <a href="{{ "admissions/" | absURL }}">Admissions</a>
+    <a href="{{ "results/" | absURL }}">Results &amp; Admit Cards</a>
+    <a href="{{ "scholarships/" | absURL }}">Scholarships</a>
+    <a href="{{ "education-news/" | absURL }}">Education News</a>
+    <a href="{{ "about/" | absURL }}">About</a>
+    <a href="{{ "contact/" | absURL }}">Contact</a>
+  </div>
+</nav>
