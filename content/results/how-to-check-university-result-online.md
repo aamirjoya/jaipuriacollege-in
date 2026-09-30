@@ -29,7 +29,7 @@ Before opening any portal, gather the credentials you will need. The exact field
 - Course or programme name (BA, BSc, BCom and so on)
 - Semester or year, and the examination session (for example, Summer or Winter)
 
-Keep your admit card and admission documents within reach. Typing the wrong roll number is the most common reason students see an error instead of a result.
+Keep your admit card and admission documents within reach — if you have not downloaded it yet, here is [how to download your university admit card](/results/how-to-download-university-admit-card/). Typing the wrong roll number is the most common reason students see an error instead of a result.
 
 ## Step 1: Go to the official examination portal
 
@@ -83,6 +83,6 @@ A result with a backlog, a failed paper or an absent mark is stressful, but the 
 
 ## A note on timing
 
-Universities declare results on their own schedules, sometimes in phases by course and semester. If your result is not out yet, check the university's notice board or official announcements rather than relying on rumours. Revaluation results also come later, in a separate list, so keep an eye on the portal after the first declaration.
+Universities declare results on their own schedules, sometimes in phases by course and semester. If your result is not out yet, check the university's notice board or official announcements rather than relying on rumours. We publish every major [result announcement](/results/) as it is declared. Revaluation results also come later, in a separate list, so keep an eye on the portal after the first declaration.
 
 Checking a result online is simple once the process is familiar. The two things that matter most are using the official portal and keeping your roll number and other details accurate. Everything after that, from saving the copy to applying for revaluation, follows naturally.
