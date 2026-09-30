@@ -19,7 +19,7 @@ faq:
 
 **Today is the last day to apply for the LIC Golden Jubilee Scholarship 2026.** The Life Insurance Corporation of India has invited applications for its scholarship scheme for students from economically weaker sections, and the online application window closes on September 30, 2026. If you have already taken admission to the first year of your course this academic year, this is one of the few major scholarships still open right now, and it can put up to Rs 50,000 a year in your bank account.
 
-The scholarship is run by the LIC Golden Jubilee Foundation and is open to students who passed Class 10 or Class 12 and entered the first year of an eligible course in the 2026-27 academic year. Unlike many private scholarships with narrow course lists, it covers medicine, engineering, general graduation, integrated courses, diplomas, vocational courses, and ITI programmes. Students who just finished Class 10 and joined Class 11, a vocational course, or a diploma are covered too under a separate Special Scholarship track.
+The scholarship is run by the LIC Golden Jubilee Foundation and is open to students who passed Class 10 or Class 12 and entered the first year of an eligible course in the 2026-27 academic year. Unlike many private scholarships with narrow course lists, it covers medicine, engineering, general graduation, integrated courses, diplomas, vocational courses, and ITI programmes. Students who just finished Class 10 and joined Class 11, a vocational course, or a diploma are covered too under a separate Special Scholarship track. For schemes closing through the year, browse our [scholarships section](/scholarships/).
 
 ## How much the scholarship pays, course by course
 
@@ -48,7 +48,7 @@ Applications are routed to one of 112 LIC divisional offices based on your PIN c
 
 Applications are online only. Here is the process, step by step.
 
-1. Go to the official application portal linked from licindia.in or through the Buddy4Study scholarship listing for the LIC Golden Jubilee Scholarship 2026.
+1. Go to the official application portal linked from <a href="https://www.licindia.in" target="_blank" rel="noopener">licindia.in</a> or through the Buddy4Study scholarship listing for the LIC Golden Jubilee Scholarship 2026.
 2. Register with your name, date of birth, email, and mobile number.
 3. Choose the right category: General Scholarship if you are in the first year after Class 12, Special Scholarship if you are in Class 11 or a diploma after Class 10.
 4. Upload your marksheet, income certificate, admission proof, Aadhaar, bank passbook or account details, and a recent photo.
@@ -65,4 +65,4 @@ A few small mistakes disqualify applications every year. Check your documents ag
 - The bank account must be active and in your own name, since the money is paid directly through NEFT.
 - Keep a scanned copy of everything you upload. If the LIC division office calls you for verification, you will need the same files.
 
-If you miss tonight's deadline, there are other large scholarships with October deadlines, including the HDFC Bank Parivartan ECSS Programme (Rs 15,000 to Rs 75,000 a year, closes October 31) and the Satya Scholarship Program for medical students (full fee coverage, closes October 31). But if you are eligible for LIC's scheme, apply today. It is the one closing tonight.
+If you miss tonight's deadline, check our [list of top government scholarships for Indian college students](/scholarships/government-scholarships-indian-college-students/) — there are other large scholarships with October deadlines, including the HDFC Bank Parivartan ECSS Programme (Rs 15,000 to Rs 75,000 a year, closes October 31) and the Satya Scholarship Program for medical students (full fee coverage, closes October 31). But if you are eligible for LIC's scheme, apply today. It is the one closing tonight.
