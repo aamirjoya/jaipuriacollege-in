@@ -16,7 +16,7 @@ faq:
     a: "Contact your college office or the university's examination section immediately. Do not wait until the day of the exam."
 ---
 
-The admit card is your entry pass to the examination hall. Without it, you do not get in, no matter how well you have prepared. Every university has its own portal and its own process, but the broad steps are the same almost everywhere. This guide walks you through them.
+The admit card is your entry pass to the examination hall. Without it, you do not get in, no matter how well you have prepared. Every university has its own portal and its own process, but the broad steps are the same almost everywhere. For a live example, see how the [IGNOU PhD admit card for the July 2026 session](/results/ignou-phd-admit-card-2026-out/) was released. This guide walks you through them.
 
 ## Where the admit card appears
 
@@ -71,4 +71,4 @@ Keep a written record of your complaint, such as an email or an acknowledgement 
 
 Carry the printed admit card and one original government photo ID, such as Aadhaar, PAN card, passport, driving licence, or voter ID. Most exam bodies do not accept a digital copy of the admit card on a phone. Leave mobile phones, smartwatches, calculators, and bags at home or in the designated area, and follow the invigilator's instructions inside the hall.
 
-Reach the centre early, at least 45 to 60 minutes before the reporting time. A calm entry is worth more than five extra minutes of revision in the auto-rickshaw.
+Reach the centre early, at least 45 to 60 minutes before the reporting time. A calm entry is worth more than five extra minutes of revision in the auto-rickshaw. After the exam, here is [how to check your university result online](/results/how-to-check-university-result-online/) when it is declared.
