@@ -1,0 +1,35 @@
+baseURL = 'https://jaipuriacollege.in/'
+languageCode = 'en'
+title = 'Jaipuria College'
+enableRobotsTXT = false
+
+[taxonomies]
+
+[params]
+  description = 'College admission alerts, exam results, admit card news and scholarships for Indian students.'
+  tagline = 'College Admissions, Exam Results & Scholarships'
+
+[params.sections]
+  admissions = 'Admissions'
+  results = 'Results & Admit Cards'
+  scholarships = 'Scholarships'
+  education-news = 'Education News'
+
+[outputs]
+  home = ['HTML', 'RSS', 'NEWS', 'ROBOTSTXT']
+
+[outputFormats.NEWS]
+  mediaType = 'application/xml'
+  baseName = 'news-sitemap'
+  isPlainText = true
+
+[outputFormats.ROBOTSTXT]
+  mediaType = 'text/plain'
+  baseName = 'robots'
+  isPlainText = true
+  notAlternative = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
