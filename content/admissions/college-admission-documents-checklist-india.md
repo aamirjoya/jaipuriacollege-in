@@ -44,13 +44,13 @@ Aadhaar also works as address proof. If you are applying for a hostel, the warde
 
 If you are claiming a seat under a reserved category, carry your caste certificate, such as SC, ST, or OBC-NCL. It must be issued by a competent authority and should be in the format your college or counselling body specifies. OBC candidates usually need a non-creamy layer certificate that is recent, so check the validity period in the admission notice.
 
-Students applying under the EWS quota need an EWS certificate. If you are applying for a scholarship or a fee concession along with admission, most colleges also ask for an income certificate. A domicile certificate is commonly required by state government colleges that reserve seats for residents of the state.
+Students applying under the EWS quota need an EWS certificate. If you are applying for a [government scholarship](/scholarships/government-scholarships-indian-college-students/) or a fee concession along with admission, most colleges also ask for an income certificate, which you will need when you apply on the <a href="https://scholarships.gov.in" target="_blank" rel="noopener">National Scholarship Portal</a>. A domicile certificate is commonly required by state government colleges that reserve seats for residents of the state.
 
 ## Photographs and the application paperwork
 
 Keep four to six recent passport-size photographs ready. Some colleges ask for photos with a light background, so it is worth checking the size and background specified in the notice.
 
-Bring a printed copy of your submitted application form or your application number, along with the fee payment receipt. Students admitted through entrance exams should carry the admit card and scorecard. For postgraduate admissions, graduation marksheets and the degree certificate or provisional certificate are needed instead of Class 12 papers.
+Bring a printed copy of your submitted application form or your application number, along with the fee payment receipt. Students admitted through entrance exams should carry the admit card and scorecard — for example, students reporting after the [NEET UG Round 3 seat allotment](/admissions/neet-ug-round-3-seat-allotment-result-2026/) need their allotment letter too. For postgraduate admissions, graduation marksheets and the degree certificate or provisional certificate are needed instead of Class 12 papers.
 
 ## Quota and special-category certificates
 
