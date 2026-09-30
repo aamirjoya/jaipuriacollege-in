@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="section-page">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="section-desc">{{ . }}</div>{{ end }}
+  <div class="list">
+    {{ range .Pages.ByDate.Reverse }}
+    {{ $p := . }}
+    <article class="list-item">
+      {{ with $p.Params.featured_image }}
+      <a class="list-thumb" href="{{ $p.Permalink }}"><img src="{{ . | absURL }}" alt="{{ $p.Params.featured_image_alt | default $p.Title }}" width="1200" height="675" loading="lazy"></a>
+      {{ end }}
+      <div>
+        <h2><a href="{{ $p.Permalink }}">{{ $p.Title }}</a></h2>
+        <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "January 2, 2006" }}</time>
+        <p>{{ $p.Description | default $p.Summary }}</p>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
