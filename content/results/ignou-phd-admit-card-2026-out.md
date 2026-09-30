@@ -18,11 +18,11 @@ faq:
 
 **The Indira Gandhi National Open University has released the admit card for its PhD Entrance Test, July 2026 session. Registered candidates can now download the hall ticket from the official portal at ignou-phd.samarth.edu.in, ahead of the examination on October 11.** The university's Student Evaluation Division listed the announcement on its notice board on September 25.
 
-If you applied for IGNOU's doctoral programmes this session, this is the document that gets you into the exam hall. Download it now rather than later. Portals slow down as the exam nears, and the university itself has advised candidates to get their hall tickets early to avoid last-minute rush or server delays.
+If you applied for IGNOU's doctoral programmes this session, this is the document that gets you into the exam hall. Download it now rather than later. Portals slow down as the exam nears, and the university itself has advised candidates to get their hall tickets early to avoid last-minute rush or server delays. We track every major [result and admit card announcement](/results/) as it happens.
 
 ## Download it from the portal, and check your inbox too
 
-The main route is the official IGNOU PhD admission portal, ignou-phd.samarth.edu.in. Log in with the credentials created during registration, which are the application number and password. The hall ticket appears on screen and can be downloaded as a PDF.
+The main route is the <a href="https://ignou-phd.samarth.edu.in" target="_blank" rel="noopener">official IGNOU PhD admission portal</a>. Log in with the credentials created during registration, which are the application number and password. The hall ticket appears on screen and can be downloaded as a PDF.
 
 There is a second route worth checking. IGNOU has sent a direct download link for the admit card to the registered email addresses of all eligible candidates. If you do not see it, check the spam or junk folder before assuming anything is wrong. The admit cards are available only to candidates who registered successfully and are eligible for the test.
 
@@ -49,4 +49,4 @@ If anything is wrong, contact the university or your regional centre right away 
 
 On exam day, reach the centre well before the reporting time printed on the admit card. Carry the printed hall ticket, a valid photo ID, and any other documents the exam-day instructions on the card mention. Without the hall ticket, candidates are not allowed inside the examination hall.
 
-Keep your application number and password saved somewhere safe even after downloading the card. The same login may be needed later for the answer key, result, or further admission steps.
+Keep your application number and password saved somewhere safe even after downloading the card. The same login may be needed later for the answer key, result, or further admission steps. If this is your first time downloading a hall ticket, our [step-by-step admit card guide](/results/how-to-download-university-admit-card/) covers the common problems students run into.
