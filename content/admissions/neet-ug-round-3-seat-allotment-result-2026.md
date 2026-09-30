@@ -24,7 +24,7 @@ The result covers the 15% All India Quota seats along with seats in deemed and c
 
 The result is available only on the official MCC website. No login SMS or email carries the official allotment, so use the steps below:
 
-- Visit mcc.nic.in and click the "UG Medical" tab at the top.
+- Visit the <a href="https://mcc.nic.in" target="_blank" rel="noopener">official MCC website</a> and click the "UG Medical" tab at the top.
 - Find the link for the NEET UG Round 3 seat allotment result 2026.
 - Log in with your NEET UG 2026 roll number and password.
 - Your allotment status, including the allotted institute, course and category, will appear on screen.
@@ -40,7 +40,7 @@ Round 3 registration ran from September 22 to 27, choice filling closed on Septe
 
 ## Report between October 1 and October 9 with your documents
 
-Allotted candidates must report in person at their allotted institute between October 1 and October 9, 2026, typically up to 5 PM on the last day. MCC will then verify the data of joined candidates on October 10.
+Allotted candidates must report in person at their allotted institute between October 1 and October 9, 2026, typically up to 5 PM on the last day. MCC will then verify the data of joined candidates on October 10. Go through our [college admission documents checklist](/admissions/college-admission-documents-checklist-india/) before you leave — one missing paper can hold up your reporting.
 
 > Carry originals of every document. Colleges verify the originals and keep attested copies, and one missing certificate is enough to delay your admission.
 
@@ -66,4 +66,4 @@ The counselling is not over. MCC has already announced the stray vacancy round s
 - Stray vacancy result: October 17, 2026
 - Reporting at allotted colleges: October 19 to October 26, 2026
 
-Unlike earlier rounds, Round 3 does not offer a free exit. If you are allotted a seat and do not join it, you will lose your security deposit, so only lock choices for colleges you are genuinely willing to join.
+Unlike earlier rounds, Round 3 does not offer a free exit. If you are allotted a seat and do not join it, you will lose your security deposit, so only lock choices for colleges you are genuinely willing to join. Keep an eye on our [admissions section](/admissions/) so you never miss a counselling update.
