@@ -1,16 +1,31 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <p class="footer-brand">Jaipuria College</p>
-      <p class="footer-note">College admission alerts, exam results, admit card news and scholarships for Indian students.</p>
+      <div class="footer-brand-row">
+        <img class="footer-crest" src="{{ "images/logo.png" | absURL }}" width="44" height="44" alt="" loading="lazy">
+        <p class="footer-brand">Jaipuria College</p>
+      </div>
+      <p class="footer-note">College admission alerts, exam results, admit card news and scholarships for Indian students. An independent news portal — not affiliated with any college or university.</p>
     </div>
-    <nav aria-label="Footer">
-      <a href="{{ "about/" | absURL }}">About</a>
-      <a href="{{ "contact/" | absURL }}">Contact</a>
-      <a href="{{ "privacy/" | absURL }}">Privacy Policy</a>
-      <a href="{{ "terms/" | absURL }}">Terms</a>
-      <a href="{{ "disclaimer/" | absURL }}">Disclaimer</a>
-    </nav>
+    <div class="footer-col">
+      <h3>Sections</h3>
+      <nav aria-label="Footer sections">
+        <a href="{{ "admissions/" | absURL }}">Admissions</a>
+        <a href="{{ "results/" | absURL }}">Results &amp; Admit Cards</a>
+        <a href="{{ "scholarships/" | absURL }}">Scholarships</a>
+        <a href="{{ "education-news/" | absURL }}">Education News</a>
+      </nav>
+    </div>
+    <div class="footer-col">
+      <h3>Information</h3>
+      <nav aria-label="Footer information">
+        <a href="{{ "about/" | absURL }}">About Us</a>
+        <a href="{{ "contact/" | absURL }}">Contact</a>
+        <a href="{{ "privacy/" | absURL }}">Privacy Policy</a>
+        <a href="{{ "terms/" | absURL }}">Terms of Use</a>
+        <a href="{{ "disclaimer/" | absURL }}">Disclaimer</a>
+      </nav>
+    </div>
   </div>
   <div class="wrap footer-bottom">
     <p>Jaipuria College is an independent education-news portal and is not affiliated with any college or university. <a href="{{ "disclaimer/" | absURL }}">Read our disclaimer</a>.</p>
