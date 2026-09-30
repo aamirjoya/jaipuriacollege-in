@@ -31,6 +31,9 @@
 <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
 {{ end }}
 <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+{{ if .IsHome }}
+{{ with index (first 1 .Site.RegularPages.ByDate.Reverse) 0 }}{{ with .Params.featured_image }}<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">{{ end }}{{ end }}
+{{ end }}
 <link rel="alternate" type="application/rss+xml" title="Jaipuria College RSS" href="{{ "index.xml" | absURL }}">
 {{ if .IsHome }}
 <script type="application/ld+json">
