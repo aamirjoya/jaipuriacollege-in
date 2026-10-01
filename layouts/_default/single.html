@@ -11,6 +11,10 @@
   <p class="byline">By <a href="{{ "about/" | absURL }}">Editorial Desk</a>
     &middot; <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     &middot; {{ .ReadingTime }} min read</p>
+  <div style="min-height:40px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:10px 0 4px;">
+    <span style="font-size:.85rem;opacity:.8;">Follow us on Google</span>
+    <div google-add-preferred-source-btn data-lang="en"></div>
+  </div>
 
   {{ with .Params.featured_image }}
   <figure class="featured">
