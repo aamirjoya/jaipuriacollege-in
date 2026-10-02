@@ -1,6 +1,6 @@
 ---
 title: "8 Calicut University Results Out on Oct 1: Check Your MBA, B.Tech, BA Score"
-date: 2026-10-02T17:15:00+05:30
+date: 2026-10-02T17:08:00+05:30
 description: "Calicut University declared eight exam results on October 1, 2026 for MBA, B.Tech, BA, BSc, BCA and integrated PG courses. Check your score on results.uoc.ac.in."
 author: "Editorial Desk"
 categories: ["results"]
