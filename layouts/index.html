@@ -81,7 +81,7 @@
     <article class="card">
       <a href="{{ $c.Permalink }}">
         {{ with $c.Params.featured_image }}
-        <img src="{{ . | absURL }}" alt="{{ $c.Params.featured_image_alt | default $c.Title }}" width="1200" height="675" loading="lazy" decoding="async">
+        <img src="{{ replace . ".webp" "-thumb.webp" | absURL }}" alt="{{ $c.Params.featured_image_alt | default $c.Title }}" width="1200" height="675" loading="lazy" decoding="async">
         {{ end }}
         <h3>{{ $c.Title }}</h3>
       </a>
