@@ -1,7 +1,7 @@
 ---
-title: "Oct 3: GTU Released 4 Re-Check/Re-Assess Results for D.Pharm, Pharm.D and Diploma Students"
+title: "Oct 3: GTU Declared 7 Re-Check/Re-Assess Results - Diploma, Pharm.D, ME Students"
 date: 2026-10-04T09:09:27+0530
-description: "GTU declared re-check and re-assess results for the May 2026 exams on 3 October 2026 for DIPL Semester 3 Remedial, Pharm.D Year 1 Regular and Remedial, and Pharm.D Year 2 Regular. Check yours on the official portal."
+description: "GTU declared re-check and re-assess results for the May 2026 exams on 3 October 2026 for seven exams, including DIPL Semester 3, Pharm.D Year 1 and 2, and ME Semesters 1 and 2. Check yours on the official portal."
 author: "Editorial Desk"
 categories: [results]
 featured_image: "/images/gtu-recheck-reassess-result-oct-2026.webp"
@@ -10,23 +10,28 @@ faq:
   - q: "When was the GTU re-check/re-assess result for May 2026 released?"
     a: "Gujarat Technological University released the re-check and re-assess results for the May 2026 exams on 3 October 2026."
   - q: "Which exams are covered in this GTU result update?"
-    a: "DIPL Semester 3 (Remedial), Pharm.D Year 1 (Regular), Pharm.D Year 1 (Remedial) and Pharm.D Year 2 (Regular), all for the May 2026 exam session."
+    a: "Seven exams from the May 2026 session: DIPL Semester 3 (Remedial), Pharm.D Year 1 (Regular and Remedial), Pharm.D Year 2 (Regular), ME Semester 1 (Remedial), and ME Semester 2 (Regular and Remedial)."
   - q: "Where do I check my GTU re-check result?"
     a: "On GTU's official result portal, gturesults.in. Pick your exact exam from the list and enter your enrollment number."
   - q: "Is the online result the final marksheet?"
     a: "No. GTU clearly says the online result is provisional and computer-generated. Your hard-copy gradesheet from the university is the final document."
 ---
 
-**Good news for GTU students who had applied for re-checking or re-assessment.** Gujarat Technological University has released the re-check/re-assess results for the May 2026 exams, and the update went live on **3 October 2026**. Four exams are covered this time: DIPL Semester 3 (Remedial), Pharm.D Year 1 (Regular), Pharm.D Year 1 (Remedial) and Pharm.D Year 2 (Regular). If you were waiting on one of these, you can check your updated scorecard right now on the official portal.
+**Good news for GTU students who had applied for re-checking or re-assessment.** Gujarat Technological University has released the re-check/re-assess results for the May 2026 exams, and the update went live on **3 October 2026**. Seven exams are covered this time, spanning Diploma, Pharm.D and ME courses. If you were waiting on one of these, you can check your updated scorecard right now on the official portal.
 
 ## Which GTU re-check/re-assess results were released on 3 October 2026
 
-The [GTU result](/results/) list for this update covers four exams from the May 2026 session, all under the re-check/re-assess category:
+The [GTU result](/results/) list for this update covers seven exams from the May 2026 session, all under the re-check/re-assess category:
 
 - **DIPL Sem 3 – Remedial (May 2026)**
 - **Pharm.D Year 1 – Regular (May 2026)**
 - **Pharm.D Year 1 – Remedial (May 2026)**
 - **Pharm.D Year 2 – Regular (May 2026)**
+- **ME Sem 1 – Remedial (May 2026)**
+- **ME Sem 2 – Regular (May 2026)**
+- **ME Sem 2 – Remedial (May 2026)**
+
+Two days earlier, on 1 October, GTU had released another re-check/re-assess batch: MPH Sem 1 (Remedial), MPH Sem 2 (Regular and Remedial), BB Sem 3 (Remedial) and Pharm.D Year 2 (Remedial).
 
 Make sure you open the entry that matches your exact course, year and exam type. Regular and remedial entries are listed separately, and picking the wrong one will not show your result.
 
@@ -67,7 +72,7 @@ Gujarat Technological University released the re-check and re-assess results for
 
 ### Which exams are covered in this GTU result update?
 
-DIPL Semester 3 (Remedial), Pharm.D Year 1 (Regular), Pharm.D Year 1 (Remedial) and Pharm.D Year 2 (Regular), all from the May 2026 exam session.
+Seven exams from the May 2026 session: DIPL Semester 3 (Remedial), Pharm.D Year 1 (Regular and Remedial), Pharm.D Year 2 (Regular), ME Semester 1 (Remedial), and ME Semester 2 (Regular and Remedial).
 
 ### Where do I check my GTU re-check result?
 
