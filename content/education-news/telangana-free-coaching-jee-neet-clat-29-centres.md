@@ -1,6 +1,6 @@
 ---
 title: "3,920 Students to Get Free JEE, NEET, CLAT Coaching in 29 Centres Across Telangana"
-date: 2026-10-17T14:12:00+05:30
+date: 2026-10-17T14:14:16+0530
 description: "Telangana will set up 29 Young India Institutes of Excellence in Model Schools to give free IIT-JEE, NEET and CLAT coaching to 3,920 students in 2026-27."
 author: "Editorial Desk"
 categories: [education-news]
