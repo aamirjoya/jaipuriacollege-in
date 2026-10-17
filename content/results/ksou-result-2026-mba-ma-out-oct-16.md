@@ -1,6 +1,6 @@
 ---
 title: "KSOU Result 2026 Out: 4 MBA and MA Results Declared on October 16"
-date: 2026-10-17T09:15:00+05:30
+date: 2026-10-17T09:10:00+05:30
 description: "KSOU declared 4 provisional results on 16 October 2026 for MBA 1st and 3rd semester repeaters, MA Economics 3rd semester revaluation, and MA Public Administration 1st year from the May/June 2026 exams. Check them on the official KSOU results portal."
 author: "Editorial Desk"
 categories: ["results"]
