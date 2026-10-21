@@ -1,6 +1,6 @@
 ---
 title: "GNDU Result 2026 Declared for 40+ UG, PG Courses: Check Your Marks with 11-Digit Roll Number"
-date: 2026-10-21T09:15:00+05:30
+date: 2026-10-21T10:58:29+0530
 description: "Guru Nanak Dev University has declared the GNDU result 2026 for BA, BSc, BCom, BBA, BCA, MA, MSc, MBA and more. Check your semester or annual marks with your 11-digit roll number on the official portal."
 author: "Editorial Desk"
 featured_image: "/images/gndu-result-2026-out-check-semester-annual-11-digit-roll-number.webp"
