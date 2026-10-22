@@ -12,7 +12,7 @@
     <link>{{ .Permalink }}</link>
     <guid>{{ .Permalink }}</guid>
     <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
-    <description><![CDATA[{{ .Description | default .Summary }}]]></description>
+    <description>{{ (printf "<![CDATA[%s]]>" (.Description | default .Summary)) | safeHTML }}</description>
     {{ with .Params.featured_image }}
     {{ $key := strings.TrimPrefix "/" . }}
     <enclosure url="{{ . | absURL }}" type="image/webp"{{ with index site.Data.imagemeta $key }} length="{{ . }}"{{ end }}/>
