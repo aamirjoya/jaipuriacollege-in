@@ -19,7 +19,7 @@ faq:
 
 **Madhya Pradesh has opened a fresh window for AYUSH admissions. Registration for MP AYUSH Stray Round 2 started on November 15 and closes at 11:59 PM on November 16. That gives candidates just two days to apply.**
 
-The Directorate of AYUSH, Madhya Pradesh, runs this round for state quota seats in BAMS, BHMS, BUMS and BNYS courses, and only NEET UG 2026 qualified candidates can take part. If you missed the earlier rounds, this is your next chance at a seat in a government or private AYUSH college.
+The Directorate of AYUSH, Madhya Pradesh, runs this round for state quota seats in BAMS, BHMS, BUMS and BNYS courses, and only NEET UG 2026 qualified candidates can take part. If you missed the earlier rounds, this is your next chance at a government or private AYUSH seat.
 
 Do not wait for the last hour. The portal gets heavy traffic on the final day, and a failed payment may not get a second chance.
 
@@ -50,18 +50,18 @@ Check both before you fill your choices. A list made without looking at the vaca
 ## How to register in 5 steps
 
 1. Go to the <a href="https://ayush.mponline.gov.in/" target="_blank" rel="noopener">official MP AYUSH portal</a> and open the Stray Round 2 registration link.
-2. Log in with your NEET UG 2026 details and fill the registration form.
+2. Log in with your NEET UG 2026 details and fill the form.
 3. Upload the documents asked for and check every entry before you submit.
-4. Pay the registration fee online and save the payment receipt.
+4. Pay the fee online and save the receipt.
 5. Keep your login details safe. You will need them for choice filling on November 20.
 
 Registering alone does not finish the job. You must fill and lock your choices between November 20 and 21, or you will not get a seat even if your name is on the merit list.
 
 ## What happens after you register
 
-First, get your documents verified at a government AYUSH help centre on November 16 or 17, before 5:00 PM. The merit list and vacant seat details come on November 19, and choice filling opens the next day. Put the colleges you want most at the top, and fill only choices you are ready to accept.
+Get your documents verified at a government AYUSH help centre on November 16 or 17, before 5:00 PM. The merit list and vacant seat details come on November 19, and choice filling opens the next day. Put the colleges you want most at the top, and fill only choices you are ready to accept.
 
-The college-wise merit list comes out on November 25. If you get a seat, report to the college on November 26 or 27 with your original documents and the admission fee. A seat that is not claimed in these two days can go to the next candidate.
+The college-wise merit list comes out on November 25. If you get a seat, report to the college on November 26 or 27 with your original documents and the admission fee. An unclaimed seat can go to the next candidate.
 
 This stray vacancy round fills seats left vacant after the regular rounds, and the number of seats is limited. Students who applied in the [MP NEET UG special stray vacancy round](/admissions/mp-neet-ug-2026-special-stray-vacancy-round-choice-filling-nov-11/) will know the pattern: short windows, no second chance, and reporting dates that cannot move.
 
@@ -78,7 +78,7 @@ Keep these at hand before you start:
 - Recent passport-size photographs and your signature
 - A debit card, credit card or net banking for the fee payment
 
-Check the name and date of birth on every document. A mismatch with your Class 10 certificate can hold up verification.
+Check the name and date of birth on every document, since a mismatch with your Class 10 certificate can hold up verification.
 
 ## Frequently asked questions
 
