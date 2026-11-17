@@ -14,6 +14,10 @@ Jaipuria College is a static website. We do not run user accounts and we do not 
 
 We may use basic, privacy-friendly analytics to understand which articles readers find useful. We do not sell personal information.
 
+## Advertising
+
+We may show ads served by Google AdSense. Google and its partners may use cookies to show ads based on your visits to this site and other sites. The DoubleClick cookie lets Google and its partners show ads based on your browsing. You can opt out of personalised advertising at https://adssettings.google.com/ and read how Google uses information from sites that use its services at https://policies.google.com/technologies/partner-sites.
+
 ## Third-party links
 
 Our articles link to official sources such as university websites and government portals. Those sites have their own privacy policies.
