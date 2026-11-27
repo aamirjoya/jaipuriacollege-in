@@ -1,6 +1,7 @@
 ---
 title: "MP NEET PG Round 1 Result Out: Report by Nov 10 or Lose Your MD, MS Seat"
 date: 2026-10-30T07:03:53+0530
+lastmod: 2026-11-27T19:06:05+0530
 description: "MP NEET PG 2026 Round 1 allotment result is out on dme.mponline.gov.in. Reporting runs from October 30 to November 10. Check the allotment list, documents, and upgradation dates here."
 author: "Editorial Desk"
 categories: ["admissions"]
@@ -16,6 +17,8 @@ faq:
   - q: "Can I opt for upgradation to Round 2 after reporting?"
     a: "Yes. You can give your willingness for upgradation between October 30 and November 10, 2026, up to 11:59 PM, as per the Round 1 schedule."
 ---
+
+> **Update, 27 November 2026:** Reporting was paused after a High Court order and has now resumed. The new window is 27 to 30 November 2026, up to 6 PM. See [MP NEET PG Round 1 admission resumes today](/admissions/mp-neet-pg-round-1-admission-resumes-nov-27-30-2026/).
 
 **The MP NEET PG 2026 Round 1 allotment result is out, and the clock is now ticking. If you got a seat, you must report to your allotted medical college between October 30 and November 10, 2026. Miss that window, and you risk losing the seat you worked so hard to earn.**
 
